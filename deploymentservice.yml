@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: restapi-todo
-        image: sunnyboysb/rest-api
+        image: sunnyboysb/restapi
         ports:
         - containerPort: 5000
         
